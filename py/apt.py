@@ -1,2 +1,3 @@
-input("Hello " + input("What is your name? "))
+input("What is my name?")
 
+print(len("Rich"))
