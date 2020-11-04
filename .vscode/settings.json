@@ -1,5 +1,5 @@
 {
-  "python.pythonPath": "/usr/bin/python",
+  "python.pythonPath": "C:\\Users\\pgold\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 4000,
   "editor.tabSize": 2,
