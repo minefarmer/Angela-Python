@@ -1,18 +1,8 @@
-# don't change the code below
-a = input("a:")
-b = input("b:")
-# don't change the code above
-
-###############################################
-# Write my code below this line
-c = a
-a = b
-b = c
-# Write my code above this line
-###############################################
-
 # Don't change the code below
-print("a = " + a)
-print("b = " + b)
-
+height = input("enter your height in m: ")
+weight = input("enter your height in kg: ")
 # Don't change the code above
+# Write my code below
+bmi = int(weight) / float(height) ** 1.8
+bmi_as_int = int(bmi)
+print(bmi_as_int)
